@@ -1,0 +1,8 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <RootNamespace>WebSystem.Infrastructure</RootNamespace>
+    <AssemblyName>WebSystem.Infrastructure</AssemblyName>
+  </PropertyGroup>
+
+</Project>

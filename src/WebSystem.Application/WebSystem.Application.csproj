@@ -1,0 +1,8 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <RootNamespace>WebSystem.Application</RootNamespace>
+    <AssemblyName>WebSystem.Application</AssemblyName>
+  </PropertyGroup>
+
+</Project>
