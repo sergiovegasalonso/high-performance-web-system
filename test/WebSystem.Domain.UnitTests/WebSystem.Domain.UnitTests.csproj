@@ -14,4 +14,8 @@
     <Using Include="Microsoft.VisualStudio.TestTools.UnitTesting" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\..\src\WebSystem.Domain\WebSystem.Domain.csproj" />
+  </ItemGroup>
+
 </Project>
