@@ -3,7 +3,7 @@ using FluentAssertions;
 using WebSystem.Domain.Exceptions;
 using WebSystem.Domain.ValueObjects;
 
-namespace CleanArchitecture.Domain.UnitTests.ValueObjects;
+namespace WebSystem.Domain.UnitTests.ValueObjects;
 
 [TestClass]
 public sealed class ColourTests
