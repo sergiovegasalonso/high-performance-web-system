@@ -8,3 +8,11 @@ Web system is a .NET solution focused in high performance and good practices.
 * Crear test de dependencias entre capas
 * Crear tests de warnings
 * Tests de estrés
+
+## Commands
+
+* Count C# lines
+
+    ``` zsh
+    find . -name '*.cs' | xargs wc -l 
+    ```
