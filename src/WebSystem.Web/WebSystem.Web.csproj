@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <ItemGroup>
+    <ProjectReference Include="..\WebSystem.Application\WebSystem.Application.csproj" />
+    <ProjectReference Include="..\WebSystem.Infrastructure\WebSystem.Infrastructure.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <RootNamespace>WebSystem.Web</RootNamespace>
+    <AssemblyName>WebSystem.Web</AssemblyName>
+  </PropertyGroup>
+
+</Project>

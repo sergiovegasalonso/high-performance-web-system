@@ -1,5 +1,9 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
+  <ItemGroup>
+    <ProjectReference Include="..\WebSystem.Application\WebSystem.Application.csproj" />
+  </ItemGroup>
+
   <PropertyGroup>
     <RootNamespace>WebSystem.Infrastructure</RootNamespace>
     <AssemblyName>WebSystem.Infrastructure</AssemblyName>
