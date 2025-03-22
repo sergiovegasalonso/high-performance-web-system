@@ -4,5 +4,9 @@
   </PropertyGroup>
   <ItemGroup>
     <PackageVersion Include="Grpc.AspNetCore" Version="2.64.0" />
+    
+    <!-- test -->
+    <PackageVersion Include="Microsoft.NET.Test.Sdk" Version="17.12.0" />
+    <PackageVersion Include="MSTest" Version="3.6.4" />
   </ItemGroup>
 </Project>
